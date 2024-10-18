@@ -1,0 +1,4 @@
+title: "My Awesome Blog"
+description: "A blog that updates itself when I am lazy"
+markdown: kramdown
+theme: minima
